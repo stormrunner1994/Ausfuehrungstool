@@ -1,0 +1,4 @@
+Maus	1158	{X=381,Y=1014}
+Key	1663	LControlKey
+Key	1838	V
+Key	4000	Return
